@@ -27,6 +27,10 @@ I have gained interest in the field of AI and it excites me how AI is changing t
 
 <a href="https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-self-attention-f5fb363c736d"><li> Attention Networks: A simple way to understand Self Attention </li> </a>
 
+<a href="https://medium.com/@geetkal67/are-they-really-the-five-biggest-laws-in-the-world-fc7dc0a199b0"><li> Are they really The Five Biggest Laws in the World? </li> </a>
+
+<a href="https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-cross-attention-3b396266d82e"><li> Attention Networks: A simple way to understand Cross-Attention </li> </a>
+
 
 <!--
 **geetanshkalra20/geetanshkalra20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
