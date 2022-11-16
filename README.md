@@ -24,19 +24,19 @@ I have gained interest in the field of AI and it excites me how AI is changing t
 <b>My Blogs!</b>
 <hr>
 
-<li> [How to subscribe to Ignition Gazebo topics using ROS2](https://medium.com/@geetkal67/how-to-subscribe-to-ignition-gazebo-topics-using-ros2-8bcff7a0242e) </li>
+<li> [How to subscribe to Ignition Gazebo topics using ROS2] (https://medium.com/@geetkal67/how-to-subscribe-to-ignition-gazebo-topics-using-ros2-8bcff7a0242e) </li>
 
-<a href="https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-self-attention-f5fb363c736d"><li> Attention Networks: A simple way to understand Self Attention </li> </a>
+<li> [Attention Networks: A simple way to understand Self Attention] (https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-self-attention-f5fb363c736d) </li>
 
-<a href="https://medium.com/@geetkal67/are-they-really-the-five-biggest-laws-in-the-world-fc7dc0a199b0"><li> Are they really The Five Biggest Laws in the World? </li> </a>
+<li> [Attention Networks: A simple way to understand Multi-Head Attention] (https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-multi-head-attention-3bc3409c4312) </li>
 
-<a href="https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-cross-attention-3b396266d82e"><li> Attention Networks: A simple way to understand Cross-Attention </li> </a>
+<li> [Attention Networks: A simple way to understand Cross-Attention] (https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-cross-attention-3b396266d82e) </li>
 
-<a href="https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-multi-head-attention-3bc3409c4312"><li> Attention Networks: A simple way to understand Multi-Head Attention </li> </a>
+<li> [Are they really The Five Biggest Laws in the World?] (https://medium.com/@geetkal67/are-they-really-the-five-biggest-laws-in-the-world-fc7dc0a199b0) </li>
 
-<a href="https://medium.com/@geetkal67/which-is-better-daily-or-monthly-sip-a-simple-analysis-d9c82eefca26"><li> Which is better Daily or Monthly SIP? — A Simple Analysis </li> </a>
+<li> [Which is better Daily or Monthly SIP? — A Simple Analysis] (https://medium.com/@geetkal67/which-is-better-daily-or-monthly-sip-a-simple-analysis-d9c82eefca26) </li>
 
-<a href="https://medium.com/@geetkal67/an-easy-introduction-to-multi-agent-reinforcement-learning-bc6eca27944f"><li> An Easy Introduction to Multi-Agent Reinforcement Learning </li> </a>
+<li> [An Easy Introduction to Multi-Agent Reinforcement Learning] (https://medium.com/@geetkal67/an-easy-introduction-to-multi-agent-reinforcement-learning-bc6eca27944f) </li>
 
 
 
