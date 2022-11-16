@@ -31,6 +31,12 @@ I have gained interest in the field of AI and it excites me how AI is changing t
 
 <a href="https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-cross-attention-3b396266d82e"><li> Attention Networks: A simple way to understand Cross-Attention </li> </a>
 
+<a href="https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-multi-head-attention-3bc3409c4312"><li> Attention Networks: A simple way to understand Multi-Head Attention </li> </a>
+
+<a href="https://medium.com/@geetkal67/which-is-better-daily-or-monthly-sip-a-simple-analysis-d9c82eefca26"><li> Which is better Daily or Monthly SIP? — A Simple Analysis </li> </a>
+
+<a href="https://medium.com/@geetkal67/an-easy-introduction-to-multi-agent-reinforcement-learning-bc6eca27944f"><li> An Easy Introduction to Multi-Agent Reinforcement Learning </li> </a>
+
 
 <!--
 **geetanshkalra20/geetanshkalra20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
