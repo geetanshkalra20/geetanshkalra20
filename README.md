@@ -24,7 +24,7 @@ I have gained interest in the field of AI and it excites me how AI is changing t
 <b>My Blogs!</b>
 <hr>
 
-<a href="https://medium.com/@geetkal67/how-to-subscribe-to-ignition-gazebo-topics-using-ros2-8bcff7a0242e"><li> How to subscribe to Ignition Gazebo topics using ROS2 </li> </a>
+<li> [How to subscribe to Ignition Gazebo topics using ROS2](https://medium.com/@geetkal67/how-to-subscribe-to-ignition-gazebo-topics-using-ros2-8bcff7a0242e) </li>
 
 <a href="https://medium.com/@geetkal67/attention-networks-a-simple-way-to-understand-self-attention-f5fb363c736d"><li> Attention Networks: A simple way to understand Self Attention </li> </a>
 
